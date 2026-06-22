@@ -1,2 +1,0 @@
-:root{--beige:#f5f1e8;--warm-beige:#e8dccb;--brown:#6b4f3a;--dark-brown:#3e2f23;--sage:#9caf88;--sage-dark:#6e8b6b;--white:#fff}body{background-color:#f5f1e8;background-color:var(--beige);color:#3e2f23;color:var(--dark-brown);font-family:Segoe UI,sans-serif;margin:0}.navbar{background-color:#e8dccb;background-color:var(--warm-beige);border-bottom:2px solid #9caf88;border-bottom:2px solid var(--sage);display:flex;justify-content:space-between;padding:1rem 2rem;padding:1rem}
-/*# sourceMappingURL=main.4fb4b9a4.css.map*/
